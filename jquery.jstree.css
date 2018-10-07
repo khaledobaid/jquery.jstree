@@ -1,0 +1,91 @@
+﻿
+.jstree-treeview-list
+{
+    list-style-type: none;
+    padding: 0px 0px 0px 0px;
+    clear: both;
+}
+
+    .jstree-treeview-list > li
+    {
+        line-height: 30px;
+        margin: 0px 0px 0px 0px;
+        margin-right: 32px;
+        margin-left: 32px;
+    }
+
+.jstree-treeview-title
+{
+    line-height: 36px;
+    cursor: pointer;
+}
+
+
+
+.jstree-treeview-rtl
+{
+    text-align: right;
+    clear: both;
+}
+
+.jstree-treeview > .jstree-treeview-list > li
+{
+    margin: 0px 0px 0px 0px;
+}
+
+.jstree-treeview-expander
+{
+    line-height: 18px;
+    cursor: pointer;
+}
+
+.jstree-treeview-loader
+{
+    /*position: relative;
+    top: -4px;*/
+    margin-right: 6px;
+    margin-left: 6px;
+}
+
+
+
+
+
+
+
+
+
+/*.jstree-treeview-expander
+{
+    float: left;
+    line-height: 18px;
+    cursor: pointer;
+}
+
+.jstree-treeview-node
+{
+    float: left;
+    text-align: left;
+}
+
+
+    .jstree-treeview-node > .jstree-treeview-list > li
+    {
+        line-height: 30px;
+        
+    }
+
+
+
+.jstree-treeview-title
+{
+    height: 32px;
+    cursor: pointer;
+}
+
+
+.jstree-treeview-expanded
+{
+}
+
+*/
